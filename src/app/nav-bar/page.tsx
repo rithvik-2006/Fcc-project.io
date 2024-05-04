@@ -1,6 +1,7 @@
 import React from 'react';
 // Import the CSS file where your styles are defined
 
+
 export default function Navbar() {
     return (
         <div className="nav-container">
